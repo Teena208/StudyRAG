@@ -1,0 +1,7 @@
+streamlit
+chromadb
+sentence-transformers
+requests
+pymupdf
+python-pptx
+python-dotenv
